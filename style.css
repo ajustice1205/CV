@@ -1,0 +1,20 @@
+         body{
+            background-color: #ebf1f9;
+            text-align: left;
+        }
+        hr{
+            border-color: aqua;
+            border-width: 5px;
+            border-style: none;
+            width: 5%;
+            border-top-style: dotted;            
+        }
+        h1{
+            color: #66BFBF;
+        }
+        h3{
+            color: #66BFBF;
+        }
+        ul{
+            list-style:circle;
+        }
